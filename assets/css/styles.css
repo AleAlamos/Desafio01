@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.encabezado{
+    text-align: center;
+    padding: 40px;
+    border-bottom: 3px dotted gray;
+}
+
+.encabezado img{
+    width: 300px;
+    /* para dar un estilo redondeado a los bordes de la img */
+    border-radius: 10px;
+}
+
+.acerca{
+    padding: 0 80px;
+}
+
+.informacion{
+    padding: 0 80px;
+}
+
+.reconocimientos{
+    padding: 0 80px;
+}
+
+.boton{
+    margin-bottom: 20px;
+}
+
+.boton a{
+    font-weight: bold;
+}
+
+.footer{
+    border-top:  3px dotted gray ;
+    text-align: center;
+}
